@@ -1,0 +1,38 @@
+diff --git a/index.html b/index.html
+--- index.html
++++ index.html
+@@ -52,27 +52,27 @@
+                   </div>
+               <div class='col-md-12'>
+                   <div class="owl-carousel" style="box-shadow: 0 -6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); ">  
+                                        <div class="item">
+-                     <a class="thumbnail" href="javascript:void(0)" data-source="http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8" data-name="Channel-1"><img alt="" src="channel-logo/1.png"></a>
++                     <a class="thumbnail" href="javascript:void(0)" data-source="http://45.127.244.7:8080/hls/channel2.m3u8" data-name="Channel-1"><img alt="" src="channel-logo/1.png"></a>
+                      </div>
+                                        <div class="item">
+-                     <a class="thumbnail" href="javascript:void(0)" data-source="http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8" data-name="Channel-2"><img alt="" src="channel-logo/2.png"></a>
++                     <a class="thumbnail" href="javascript:void(0)" data-source="http://45.127.244.7:8080/hls/channel3.m3u8" data-name="Channel-2"><img alt="" src="channel-logo/2.png"></a>
+                      </div>
+                                        <div class="item">
+-                     <a class="thumbnail" href="javascript:void(0)" data-source="http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8" data-name="Channel-3"><img alt="" src="channel-logo/3.png"></a>
++                     <a class="thumbnail" href="javascript:void(0)" data-source="http://45.127.244.7:8080/hls/channel4.m3u8" data-name="Channel-3"><img alt="" src="channel-logo/3.png"></a>
+                      </div>
+                                        <div class="item">
+-                     <a class="thumbnail" href="javascript:void(0)" data-source="http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8" data-name="Channel-4"><img alt="" src="channel-logo/4.png"></a>
++                     <a class="thumbnail" href="javascript:void(0)" data-source="http://45.127.244.7:8080/hls/channel5.m3u8" data-name="Channel-4"><img alt="" src="channel-logo/4.png"></a>
+                      </div>
+                                        <div class="item">
+-                     <a class="thumbnail" href="javascript:void(0)" data-source="http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8" data-name="Channel-5"><img alt="" src="channel-logo/5.png"></a>
++                     <a class="thumbnail" href="javascript:void(0)" data-source="http://45.127.244.7:8080/hls/channel9.m3u8" data-name="Channel-5"><img alt="" src="channel-logo/5.png"></a>
+                      </div>
+                                        <div class="item">
+-                     <a class="thumbnail" href="javascript:void(0)" data-source="http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8" data-name="Channel-6"><img alt="" src="channel-logo/6.png"></a>
++                     <a class="thumbnail" href="javascript:void(0)" data-source="http://45.127.244.7:8080/hls/channel10.m3u8" data-name="Channel-6"><img alt="" src="channel-logo/6.png"></a>
+                      </div>
+                                        <div class="item">
+-                     <a class="thumbnail" href="javascript:void(0)" data-source="http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8" data-name="Channel-7"><img alt="" src="channel-logo/7.png"></a>
++                     <a class="thumbnail" href="javascript:void(0)" data-source="http://45.127.244.7:8080/hls/channel12.m3u8" data-name="Channel-7"><img alt="" src="channel-logo/7.png"></a>
+                      </div>
+                                        <div class="item">
+                      <a class="thumbnail" href="javascript:void(0)" data-source="http://208.115.215.42/ZEE_CInema_HD/index.m3u8" data-name="Channel-8"><img alt="" src="channel-logo/8.png"></a>
+                      </div>
